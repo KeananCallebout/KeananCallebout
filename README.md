@@ -1,5 +1,13 @@
 ## Hi there 👋
+I'm Keanan a software developer currently studing at HoGent in Belgium. My intrest within development lies in javascipt/ typescript, java, python and c#/.net. I'm currently working on some projects to hopefully at to my repository outside of school projects. An example of one such project would be the development of a webshop and inventory/ sales management application for Delaware/
 
+## Languages:
+- Dutch: naitive language
+- English: Fluent
+- French: decent
+
+## Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,cs,dotnet,py,nextjs,nestjs,nodejs,tailwind,html,css,kotlin,vite,jest,react,mysql,postgres,mongodb,postman,prisma,bootstrap,arduino,processing,androidstudio,eclipse,figma,vscode,pycharm,md,docker,git,github,latex,pnpm,npm,obsidian,yarn&perline=8)](https://skillicons.dev)
 <!--
 **KeananCallebout/KeananCallebout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
