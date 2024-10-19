@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Keanan a software developer currently studing at HoGent in Belgium. My intrest within development lies in javascipt/ typescript, java, python and c#/.net. I'm currently working on some projects to hopefully add to my repository outside of school projects. An example of one such project would be the development of a webshop and inventory/ sales management application for Delaware/
+I'm Keanan a software developer currently studing at HoGent in Belgium. My intrest within development lies in javascipt/ typescript, java, python and c#/.net. I'm currently working on some projects to hopefully add to my repository outside of school projects. An example of one such project would be the development of a webshop and inventory/ sales management application for Delaware.
 
 ## Languages:
 - Dutch: naitive language
