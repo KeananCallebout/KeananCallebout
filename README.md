@@ -7,7 +7,7 @@ I'm Keanan a software developer currently studing at HoGent in Belgium. My intre
 - French: decent
 
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,cs,dotnet,py,nextjs,nestjs,nodejs,tailwind,html,css,kotlin,vite,jest,react,mysql,postgres,mongodb,postman,prisma,bootstrap,arduino,processing,androidstudio,eclipse,figma,vscode,pycharm,md,docker,git,github,latex,pnpm,npm,obsidian,yarn&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,cs,dotnet,py,nextjs,nestjs,nodejs,tailwind,html,css,kotlin,vite,jest,react,mysql,postgres,postman,prisma,bootstrap,androidstudio,eclipse,figma,vscode,pycharm,md,docker,git,github,latex,pnpm,npm,obsidian&perline=10)](https://skillicons.dev)
 <!--
 **KeananCallebout/KeananCallebout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
